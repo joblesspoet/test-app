@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/ghulamrasool/reactnative/Bus.Watch.Admins/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.9.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1c9837ec75b2273699379c2ba0ae63d669b4f08c">
+        <dex dex="/home/ghulamrasool/reactnative/Bus.Watch.Admins/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.9.0_cf6208dd8490a21744b885812248756285d78ab0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ghulamrasool/reactnative/Bus.Watch.Admins/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.56.0/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/ghulamrasool/reactnative/Bus.Watch.Admins/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_8e8cd1bad96594b4a367d1cec8b80f57b644fdd5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ghulamrasool/reactnative/Bus.Watch.Admins/android/app/build/intermediates/exploded-aar/android.arch.lifecycle/runtime/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/home/ghulamrasool/reactnative/Bus.Watch.Admins/android/app/build/intermediates/pre-dexed/debug/android.arch.lifecycle-runtime-1.0.0_33d9006a5a8375bfb84243ee7fe2bce5e0f492f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ghulamrasool/reactnative/Bus.Watch.Admins/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/home/ghulamrasool/reactnative/Bus.Watch.Admins/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-26.1.0_4dc945949ce01a238659a48a1008eb2b73554ed0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ghulamrasool/reactnative/Bus.Watch.Admins/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.9.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f80a752d1333efd4fb9b87da63e73909acb151af">
+        <dex dex="/home/ghulamrasool/reactnative/Bus.Watch.Admins/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.9.0_df0399a4e5c1d1c794adacd526ed5121df4e179b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ghulamrasool/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/ghulamrasool/reactnative/Bus.Watch.Admins/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_c35d4640a2a8f87a174e9755b3901eb6e02db501.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ghulamrasool/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/home/ghulamrasool/reactnative/Bus.Watch.Admins/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_5e883efb032caf65cba27f2a1d129b25726a6ced.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ghulamrasool/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/ghulamrasool/reactnative/Bus.Watch.Admins/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_6febfb0309df473b70031a771d376473ac66f21d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ghulamrasool/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/ghulamrasool/reactnative/Bus.Watch.Admins/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_f47d03fa962cc76e1f02e383f4cffeaa09f67ce3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ghulamrasool/reactnative/Bus.Watch.Admins/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/home/ghulamrasool/reactnative/Bus.Watch.Admins/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-26.1.0_fcc3be78c97a265f75005101552e0030083f7d6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ghulamrasool/reactnative/Bus.Watch.Admins/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/home/ghulamrasool/reactnative/Bus.Watch.Admins/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-26.1.0_a1b0a39e132aa7c20a8caace04f8431ff20c06fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ghulamrasool/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e/okhttp-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e">
+        <dex dex="/home/ghulamrasool/reactnative/Bus.Watch.Admins/android/app/build/intermediates/pre-dexed/debug/okhttp-3.10.0_1537e783970c21462b88abc7e71cbb43c42f87a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ghulamrasool/reactnative/Bus.Watch.Admins/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/home/ghulamrasool/reactnative/Bus.Watch.Admins/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-26.1.0_aef23a4d76c4f858507c09218923c34116688b27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ghulamrasool/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/ghulamrasool/reactnative/Bus.Watch.Admins/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_f47d03fa962cc76e1f02e383f4cffeaa09f67ce3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ghulamrasool/reactnative/Bus.Watch.Admins/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/ghulamrasool/reactnative/Bus.Watch.Admins/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-26.1.0_5aa1a14b746c6d48d5946966c73065a3f20a81e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ghulamrasool/reactnative/Bus.Watch.Admins/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/home/ghulamrasool/reactnative/Bus.Watch.Admins/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-26.1.0_b29efc3f0889ab6a7a863b1a3e294ec516fb46f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ghulamrasool/reactnative/Bus.Watch.Admins/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.9.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="da59c80e4a1c8df62d2b4188ef3efddab8afa236">
+        <dex dex="/home/ghulamrasool/reactnative/Bus.Watch.Admins/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.9.0_08fbe42cfffb9e0d617acd00bb7c7ae7caf6e8ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ghulamrasool/reactnative/Bus.Watch.Admins/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.56.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
+        <dex dex="/home/ghulamrasool/reactnative/Bus.Watch.Admins/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.56.0_ff59154825c7f55fe038b49dded65b00ba88f48e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ghulamrasool/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/ghulamrasool/reactnative/Bus.Watch.Admins/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_6febfb0309df473b70031a771d376473ac66f21d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ghulamrasool/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/ghulamrasool/reactnative/Bus.Watch.Admins/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_18cd451198f103c719cc06eb9be387fa664ebe8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ghulamrasool/reactnative/Bus.Watch.Admins/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/ghulamrasool/reactnative/Bus.Watch.Admins/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_49c5be471fe0b16a78c8a17f5cb5a3fc47050299.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ghulamrasool/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.14.0/102d7be47241d781ef95f1581d414b0943053130/okio-1.14.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="102d7be47241d781ef95f1581d414b0943053130">
+        <dex dex="/home/ghulamrasool/reactnative/Bus.Watch.Admins/android/app/build/intermediates/pre-dexed/debug/okio-1.14.0_f3a1060e7f82907c3f08204c1bd596b79e04cffc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ghulamrasool/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/ghulamrasool/reactnative/Bus.Watch.Admins/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_c35d4640a2a8f87a174e9755b3901eb6e02db501.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ghulamrasool/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/home/ghulamrasool/reactnative/Bus.Watch.Admins/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_ad98057fef253a4e390dd80062497c3182bf1877.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ghulamrasool/reactnative/Bus.Watch.Admins/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.9.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ae15c560bc6685007440d8a70686f8348bafd791">
+        <dex dex="/home/ghulamrasool/reactnative/Bus.Watch.Admins/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.9.0_406879f262bc5716840b4054fa4ff855aa39e130.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ghulamrasool/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.10.0/ec614c05825ddd2267677a99f585d3913474b125/okhttp-urlconnection-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ec614c05825ddd2267677a99f585d3913474b125">
+        <dex dex="/home/ghulamrasool/reactnative/Bus.Watch.Admins/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.10.0_635526eac6631a4a04d11adf4a49a28f1e8362df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ghulamrasool/reactnative/Bus.Watch.Admins/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.9.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dc6c0959ecc7b21932675183573b2bcecf2687b9">
+        <dex dex="/home/ghulamrasool/reactnative/Bus.Watch.Admins/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.9.0_1d280f24b87a43af391c9aa0d9532c151a0acbab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ghulamrasool/reactnative/Bus.Watch.Admins/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9803a14716e9f462afb5742811f3456c39f3be3a">
+        <dex dex="/home/ghulamrasool/reactnative/Bus.Watch.Admins/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.3.0_6a2f3709161f2ee0735aa229aba4041260c6a14b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ghulamrasool/reactnative/Bus.Watch.Admins/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/home/ghulamrasool/reactnative/Bus.Watch.Admins/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-26.1.0_0f3a8031118aece9dcbe329f48ac40565dd0999f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ghulamrasool/reactnative/Bus.Watch.Admins/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.9.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="87382214d92be4e3c931cb6aa7aa4e827bc179b7">
+        <dex dex="/home/ghulamrasool/reactnative/Bus.Watch.Admins/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.9.0_543364c97a7140387043b57a3e7663970bb964ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ghulamrasool/reactnative/Bus.Watch.Admins/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/home/ghulamrasool/reactnative/Bus.Watch.Admins/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-26.1.0_9045c315730e820b1e4c8bc4e1259d629be7c30a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ghulamrasool/reactnative/Bus.Watch.Admins/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/home/ghulamrasool/reactnative/Bus.Watch.Admins/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-26.1.0_0fbe3ea22655626262552b097e019a8fb8a569a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ghulamrasool/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/home/ghulamrasool/reactnative/Bus.Watch.Admins/android/app/build/intermediates/pre-dexed/debug/support-annotations-26.1.0_6c39b72eeb2ead4a7c38dc3870017ce78974f74e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ghulamrasool/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/ghulamrasool/reactnative/Bus.Watch.Admins/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_18cd451198f103c719cc06eb9be387fa664ebe8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ghulamrasool/reactnative/Bus.Watch.Admins/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/ghulamrasool/reactnative/Bus.Watch.Admins/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_49c5be471fe0b16a78c8a17f5cb5a3fc47050299.jar" />
+    </item>
+
+</items>
